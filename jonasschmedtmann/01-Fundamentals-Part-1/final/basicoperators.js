@@ -24,8 +24,11 @@ console.log(x);
 
 let a = 12.5 * 2;
 a *= 4; //from above we have a=25, a=a*4 that is a=25*4=100
+console.log(a);
 a++;//a=a+1
+console.log(a);
 a--;//a=a-1
+console.log(a);
 a--;//a=a-1
 console.log(a);
 
