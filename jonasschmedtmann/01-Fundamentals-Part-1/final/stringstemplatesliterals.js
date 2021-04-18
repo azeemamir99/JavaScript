@@ -17,4 +17,4 @@ lines before es6');
 
 console.log(`but now with 
 back-tick we just hit enter
- and enter multiple lines`);
+ and enter multiple lines in js template literals.`);
