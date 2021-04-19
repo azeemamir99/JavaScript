@@ -7,7 +7,6 @@ console.log(typeof inputYear);
 const nextYear = "1991";
 console.log(Number(nextYear), nextYear);
 console.log(Number(nextYear) + 18);
-
 const amir = "myname";
 console.log(typeof amir);
 console.log(`when you try to convert a string to number it gives NaN, when you check the type of NaN it shows as number, its weird!`)
